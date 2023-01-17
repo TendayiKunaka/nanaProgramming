@@ -21,3 +21,5 @@ class OpenCity:
     def change_title(self, new_title):
         self.job_title = new_title
 
+        #added a comment to see how best I can upload to Git withot any commands
+
